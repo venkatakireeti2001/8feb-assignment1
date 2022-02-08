@@ -1,0 +1,19 @@
+x=int(input('enter x value:'))
+y=int(input('enter y value:'))
+print(("x>y is",x>y)) 
+print(("x==y is",x==y)) 
+print(("x!=y is",x!=y)) 
+print(("x<=y is",x<=y)) 
+print(("x>=y is",x>=y)) 
+print(("x<y is",x<y))   
+
+
+output:
+enter x value:6
+enter y value:4
+('x>y is', True)
+('x==y is', False)
+('x!=y is', True)
+('x<=y is', False)
+('x>=y is', True)
+('x<y is', False)
